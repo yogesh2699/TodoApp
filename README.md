@@ -12,11 +12,11 @@ A Django based Todolist application.
 - [x] Share the Todo List with others(Using Mail and Also Tweet Todolist with others).
 - [x] Tagging a Todo List by topic/category
 - [x] Django saves Todolist item based on Category
-
-## Sharing features Images are as : 
+ 
 
 ## Screenshots of the application : 
-<img src="?raw=true" alt="">
-
+<img src="https://github.com/yogesh2699/TODO_Django/blob/master/Screenshot%202019-01-27%2012.32.34.png"?raw=true" alt="">
+<img src="https://github.com/yogesh2699/TODO_Django/blob/master/Screenshot%202019-01-27%2012.33.07.png"?raw=true" alt="">
 ## Sharing features Images are as :
+<img src="https://github.com/yogesh2699/TODO_Django/blob/master/Screenshot%202019-01-27%2015.33.37.png"?raw=true" alt="">
 *Tested on Windows Operating System*
