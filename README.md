@@ -16,10 +16,7 @@ A Django based Todolist application.
 ## Sharing features Images are as : 
 
 ## Screenshots of the application : 
-<img src="
-        TODO_Django/Screenshot 2019-01-27 12.32.34.png
-      ">
-<img src="https://github.com/garvit14/Chit-Chat/blob/master/screenshots/signup.png">
+<img src="?raw=true" alt="">
 
 ## Sharing features Images are as :
 *Tested on Windows Operating System*
