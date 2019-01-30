@@ -15,7 +15,7 @@ A Django based Todolist application.
  
 
 ## Screenshots of the application : 
-<img src="https://github.com/yogesh2699/Blog-Project-Django/blob/master/Screenshot%202019-01-02%2016.51.31.png?raw=true" alt="">
+<img src="https://github.com/yogesh2699/TODO_Django/blob/master/Screenshot%202019-01-27%2012.32.34.png?raw=true" alt="">
 ## Sharing features Images are as :
 <img src="https://github.com/yogesh2699/TODO_Django/blob/master/Screenshot%202019-01-27%2015.33.37.png"?raw=true" alt="">
 *Tested on Windows Operating System*
